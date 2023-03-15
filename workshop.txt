@@ -1,0 +1,11 @@
+version=1
+id=2947370877
+title=Weightless Accessories
+description=Mod changes weight of "useless" clothing items to 0.0
+description=Mod should be compatible with any modded items.
+description=Mod will skip any items that are registered in TweakItemData array.
+description=Mod doesn't intend to change the weight of items with purpose, so stuff like socks, watches or belts are untouched.
+description=
+description=Source code on [url=https://github.com/Franisz/WeightlessAccessories]GitHub[/url]
+tags=Build 41;Items;Misc;Multiplayer
+visibility=public
